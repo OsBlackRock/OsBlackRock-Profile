@@ -31,17 +31,18 @@
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  </p>
 <br>
- <div align="center"> 
-  <a href="(https://www.linkedin.com/in/okay-sidar-karakaya-700b04258/)" target="_blank">
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/okay-sidar-karakaya-700b04258/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
   </a>
-  <a href = "okay.sidar@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
+  <a href="mailto:okay.sidar@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
   </a>
-  <a href="(https://www.instagram.com/okysdar_/)" target="_blank">
-   <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
+  <a href="https://www.instagram.com/okysdar_/" target="_blank">
+   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
   </a>
 </div>
+
  
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
