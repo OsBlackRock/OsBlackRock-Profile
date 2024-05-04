@@ -38,13 +38,11 @@
   <a href="mailto:okay.sidar@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
   </a>
-  <a href="mailto:okay.sidar@gmail.com">
-   <img alt="Mail" src="https://img.shields.io/badge/Mail-%23333?&style=for-the-badge&logo=gmail&logoColor=red "/>
-  </a>
   <a href="https://www.instagram.com/okysdar_/" target="_blank">
    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
   </a>
 </div>
+
 
 
 
