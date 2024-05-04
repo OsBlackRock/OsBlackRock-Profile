@@ -32,13 +32,13 @@
  </p>
 <br>
  <div align="center"> 
-  <a href="[https://www.linkedin.com/in/hanzelkaraagac/](https://www.linkedin.com/in/okay-sidar-karakaya-700b04258/)" target="_blank">
+  <a href="(https://www.linkedin.com/in/okay-sidar-karakaya-700b04258/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
   </a>
-  <a href = "mailto:okay.sidar@gmail.com">
+  <a href = "okay.sidar@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
   </a>
-  <a href="[/?hl=tr](https://www.instagram.com/okysdar_/)" target="_blank">
+  <a href="(https://www.instagram.com/okysdar_/)" target="_blank">
    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
   </a>
 </div>
